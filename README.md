@@ -9,7 +9,7 @@
 |[Emacs](https://www.gnu.org/software/emacs)|[XEmacs](https://www.xemacs.org)|
 |[FFmpeg](https://ffmpeg.org)|[LibAV](https://github.com/libav/libav)|
 |[Firefox](https://www.mozilla.org/fr)|[Basilisk](https://www.basilisk-browser.org)|
-|[MySQL](https://www.mysql.com/fr)|[MariaDB](https://mariadb.org)|
+|[MySQL](https://www.mysql.com/fr)|[MariaDB](https://mariadb.org) ▪ [Percona](https://www.percona.com)|
 |[NetBSD](https://www.netbsd.org)|[OpenBSD](https://www.openbsd.org)|
 |[Nginx](https://nginx.org)|[FreeNginx](https://freenginx.org)|
 |[OpenOffice](https://www.openoffice.org/fr)|[LibreOffice](https://fr.libreoffice.org)|
