@@ -5,6 +5,7 @@
 
 |PROJET INITIAL|PROJET(S) INDÉPENDANT(S)|
 |:--|:--|
+|[Debian](https://www.debian.org/index.fr.html)|[Devuan](https://www.devuan.org)|
 |[Emacs](https://www.gnu.org/software/emacs)|[XEmacs](https://www.xemacs.org)|
 |[FFmpeg](https://ffmpeg.org)|[LibAV](https://github.com/libav/libav)|
 |[Firefox](https://www.mozilla.org/fr)|[Basilisk](https://www.basilisk-browser.org)|
