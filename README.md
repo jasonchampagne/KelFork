@@ -5,6 +5,9 @@
 
 |PROJET INITIAL|PROJET(S) INDÉPENDANT(S)|
 |:--|:--|
+|[Firefox](https://www.mozilla.org/fr)|[Basilisk](https://www.basilisk-browser.org)|
 |[MySQL](https://www.mysql.com/fr)|[MariaDB](https://mariadb.org)|
 |[Nginx](https://nginx.org)|[FreeNginx](https://freenginx.org)|
 |[OpenOffice](https://www.openoffice.org/fr)|[LibreOffice](https://fr.libreoffice.org)|
+|[OpenSSL](https://www.openssl.org)|[LibreSSL](https://www.libressl.org)|
+|TrueCrypt|[VeraCrypt](https://www.veracrypt.fr/en/Home.html)|
