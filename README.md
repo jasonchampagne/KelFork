@@ -5,5 +5,6 @@
 
 |PROJET INITIAL|PROJET(S) INDÉPENDANT(S)|
 |:--|:--|
+|[MySQL](https://www.mysql.com/fr)|[MariaDB](https://mariadb.org)|
 |[Nginx](https://nginx.org)|[FreeNginx](https://freenginx.org)|
 |[OpenOffice](https://www.openoffice.org/fr)|[LibreOffice](https://fr.libreoffice.org)|
