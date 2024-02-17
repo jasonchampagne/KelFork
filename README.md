@@ -5,6 +5,7 @@
 
 |PROJET INITIAL|PROJET(S) INDÉPENDANT(S)|
 |:--|:--|
+|[FFmpeg](https://ffmpeg.org)|[LibAV](https://github.com/libav/libav)|
 |[Firefox](https://www.mozilla.org/fr)|[Basilisk](https://www.basilisk-browser.org)|
 |[MySQL](https://www.mysql.com/fr)|[MariaDB](https://mariadb.org)|
 |[Nginx](https://nginx.org)|[FreeNginx](https://freenginx.org)|
