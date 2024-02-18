@@ -8,7 +8,7 @@
 |[Debian](https://www.debian.org/index.fr.html)|[Devuan](https://www.devuan.org)|
 |[Emacs](https://www.gnu.org/software/emacs)|[XEmacs](https://www.xemacs.org)|
 |[FFmpeg](https://ffmpeg.org)|[LibAV](https://github.com/libav/libav)|
-|[Firefox](https://www.mozilla.org/fr)|[Basilisk](https://www.basilisk-browser.org) ▪ [LibreWolf](https://librewolf.net)|
+|[Firefox](https://www.mozilla.org/fr)|[Basilisk](https://www.basilisk-browser.org) ▪ [LibreWolf](https://librewolf.net) ▪ [Waterfox](https://www.waterfox.net)|
 |[MySQL](https://www.mysql.com/fr)|[MariaDB](https://mariadb.org) ▪ [Percona](https://www.percona.com)|
 |[NetBSD](https://www.netbsd.org)|[OpenBSD](https://www.openbsd.org)|
 |[Nginx](https://nginx.org)|[FreeNginx](https://freenginx.org)|
